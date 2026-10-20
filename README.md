@@ -12,8 +12,8 @@ Currently **seeking opportunities** in data science, ML and software engineering
 |---|---|---|
 | **[Job Market Analytics](https://github.com/marcazdaou/Job-Market-Analysis)** | 394,300 job postings from 65 countries · leakage-safe salary model (R² 0.77) · bootstrap CIs and fixed-effects pay gaps · 49 tests | [Live dashboard](https://job-market-analysis-ndmqelnezlfa64hyyhhwkv.streamlit.app/) |
 | **[Green Thumb](https://github.com/marcazdaou/Green-Thumb)** | Django store on 1M+ real retail transactions · repurchase model (ROC AUC 0.795) · recommendations that beat best-sellers · Stripe test checkout · 76 tests | [Live site](https://green-thumb-1-lc2c.onrender.com) |
-| **[j-- Compiler](https://github.com/marcazdaou/compilers)** | JVM bytecode compiler: lexer → parser → AST → semantic analysis → code generation, 15+ added language features | |
-| **[Quantum Computing](https://github.com/marcazdaou/Quantum-Computing)** | Grover's search, QFT and Shor's algorithm with Qiskit | |
+| **[j-- Compiler](https://github.com/marcazdaou/compilers)** | Extended a Java-subset compiler targeting JVM bytecode with 15+ features (new types, operators, loops, optimized switch) | |
+| **[Quantum Computing](https://github.com/marcazdaou/Quantum-Computing)** | Qiskit notebooks: entanglement, teleportation, BB84, Deutsch-Jozsa and Grover's search | |
 
 ### Tech
 
