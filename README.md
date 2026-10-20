@@ -1,10 +1,10 @@
-## Hi, I'm Marc Abi Zeid Daou ;)
+## Hi, I'm Marc Abi Zeid Daou 
 
 M.S. Data Analytics Engineering student at **Northeastern University** (B.S. Computer Science, UMass Boston, GPA 3.9).
 I build machine-learning models, data pipelines and full-stack apps on **real data**, then test them and ship them live.
 Currently **seeking opportunities** in data science, ML and software engineering.
 
-🌐 [Portfolio](https://marcazdaou.github.io/my-portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/marc-abi-zeid-daou/) · ✉️ marcazdaou@gmail.com
+[Portfolio](https://marcazdaou.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/marc-abi-zeid-daou/) · marcazdaou@gmail.com
 
 ### Featured projects
 
