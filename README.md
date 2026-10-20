@@ -17,7 +17,7 @@ Currently **seeking co-op opportunities** in data science, ML and software engin
 
 ### Tech
 
-**Data & ML:** Python · Pandas · NumPy · SciPy · Scikit-learn · Statsmodels · Plotly · Streamlit · Jupyter
-**Software:** Django · React · Node.js · Java · C · SQL · R · JavaScript · pytest
-**Data & cloud:** PostgreSQL · SQLite · MongoDB · Azure · Render · Docker · Git · Linux
-**BI:** Power BI · Tableau · Excel
+- **Data & ML:** Python · Pandas · NumPy · SciPy · Scikit-learn · Statsmodels · Plotly · Streamlit · Jupyter
+- **Software:** Django · React · Node.js · Java · C · SQL · R · JavaScript · pytest
+- **Databases & cloud:** PostgreSQL · SQLite · MongoDB · Azure · Render · Docker · Git · Linux
+- **BI:** Power BI · Tableau · Excel
